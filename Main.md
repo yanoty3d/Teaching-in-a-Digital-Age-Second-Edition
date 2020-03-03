@@ -28,18 +28,32 @@ As with serious games, virtual and augmented reality are technologies that have 
 
 本格的なゲームと同様に、仮想現実と拡張現実は、以前の開発で教育に比較的小さな影響を与えながら、しばらくの間存在していたテクノロジーです。 ただし、仮想世界を2次元（Second Lifeなど）から3次元の非常に没入型の環境に移行させた最近の技術開発により、教育の可能性に注目が集まっています（歴史と拡張性と 教育における仮想現実、エルムカデン、2019年を参照）
 
-シリアスゲームと同様に、仮想現実と拡張現実は以前からあった技術ですが、開発の初期においては教育へのインパクトは比較的小さかったです。しかし、仮想世界が（Second Lifeのような）
+シリアスゲームと同様に、仮想現実と拡張現実は以前からあった技術ですが、開発の初期においては教育へのインパクトは比較的小さかったです。しかし、最近の技術の発達によって仮想世界が（Second Lifeのような）二次元のものから三次元の没入感の高い環境になったことで、教育での利用可能性に注目が集まるようになりました（教育における拡張現実や仮想現実の歴史と利用可能性については、Elmgaddden2019の概説が良いです）。
 
 ***
 
+## 8.7b.1 What are virtual/augmented/mixed reality?
 
-8.7b.1 What are virtual/augmented/mixed reality?
+8.7b.1仮想/拡張/混合現実とは何ですか？
+
+8.7b.1仮想/拡張/混合現実とは？
+
+***
+
 A simple definition of these technologies is ‘human immersion in a synthetic world‘ (Seidel and Chatelier, 1997). The Franklin Institute provides the following more detailed definitions that attempt to distinguish between the different types of ‘synthetic’ worlds:
 
 Augmented reality (AR) adds digital elements to a live view often by using the camera on a smartphone. Examples of augmented reality experiences include Snapchat lenses and the game Pokémon Go. 
+
+これらの技術の簡単な定義は「合成世界への人間の没入」です（Seidel and Chatelier、1997）。 フランクリン研究所は、さまざまなタイプの「合成」世界を区別しようとする次のより詳細な定義を提供します。
+
+拡張現実（AR）は、スマートフォンでカメラを使用することで、ライブビューにデジタル要素を追加します。 拡張現実体験の例には、SnapchatレンズやゲームPokémonGoが含まれます。
+
+***
 
 Virtual reality (VR) implies a complete immersion experience that shuts out the physical world. Using VR devices such as HTC Vive, Oculus Rift or Google Cardboard, users can be transported into a number of real-world and imagined environments such as the middle of a squawking penguin colony or even the back of a dragon.
 
 In a mixed reality (MR) experience, which combines elements of both AR and VR, real-world and digital objects interact. Mixed reality technology is just now starting to take off, with Microsoft’s HoloLens one of the most notable early mixed reality apparatuses.
 
 I will use the term ‘immersive technologies’ for all these technologies. However, verbal descriptions will always be somewhat inadequate in describing what are essentially multi-sensory experiences, combining vision, hearing and movement. These technologies are something that need to be experienced rather than explained if they are to be better understood. 
+
+
