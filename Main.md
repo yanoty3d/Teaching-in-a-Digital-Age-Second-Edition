@@ -36,7 +36,7 @@ As with serious games, virtual and augmented reality are technologies that have 
 
 **Machine)** 8.7b.1仮想/拡張/混合現実とは何ですか？
 
-**Human)** 8.7b.1仮想/拡張/混合現実とは？
+**Human)** 8.7b.1仮想/拡張/複合現実とは？
 
 ***
 
