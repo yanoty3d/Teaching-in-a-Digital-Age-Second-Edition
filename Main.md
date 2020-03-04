@@ -72,3 +72,29 @@ I will use the term ‘immersive technologies’ for all these technologies. How
 
 ***
 
+## 8.7b.2 Why use immersive technologies?
+
+There are several reasons why these technologies are beginning to be used more in education:
+
+the recent development of relatively low cost and easily wearable end-user technology (headsets in particular);
+deep immersion into three-dimensional, highly realistic learning environments that are strongly compelling/motivating for the end user;
+the ability for end users to manipulate objects within the three dimensional environment;
+more powerful cloud computing technology that allows for the development of more complex and more realistic learning environments, combined with more advanced developments in mobile technologies and high-speed wireless networks;
+the potential for developing a range of skills and knowledge that would be difficult, impossible or dangerous in real-world environments.
+
+## 8.7b.3 Examples of immersive environments in education
+Looking at the challenges above, it may be wondered why anyone would bother with immersive technologies in education. However, the potential benefits have barely been explored. I provide examples here that demonstrate both the potential benefits and how some immersive environments can be developed relatively easily. (For a more systematic review of VR applications in higher or post-secondary education, see Radianti et al., 2020)
+
+## 8.7b.3.1 Virtual reality
+In the Department of Chemistry at the University of Bristol in England, Dr. David Glowacki and his team in their VR laboratory created an interactive molecular dynamics modelling tool in the form of Nano Simbox VR, which allowed anyone to visit and play within the invisible molecular world (O’Connor et al., 2018). The main aim of this particular project was to provide an intuitive feeling of the way molecules operate in multiple dimensions to enable researchers and students to have a better understanding of how nano worlds operate, leading to better hypotheses for testing within this particular domain.
+
+As the authors state in the article:
+
+From a modeling perspective, the nanoscale represents an interesting domain, because the objects of study (for example, molecules) are invisible to the naked eye, and their behavior is governed by physical forces and interactions significantly different from those forces and interactions that we encounter during our day-to-day phenomenological experience. In domains like this, which are imperceptible to the naked eye, effective models are vital to provide the insight required to make research progress….molecular systems typically have thousands of degrees of freedom. As a result, their motion is characterized by a complicated, highly correlated, and elegant many-body dynamical choreography, which is nonintuitive compared to the more familiar mechanics of objects that we encounter in the everyday physical world. Their combined complexity, unfamiliarity, and importance make molecules particularly interesting candidates for investigating the potential of new digital modeling paradigms.
+
+Glowacki and his team in Science Advances (O’Connor et al., 2018) describe how the VR app enabled researchers to:
+
+easily “grab” individual C60 atoms and manipulate their real-time dynamics to pass the C60 back and forth between each other.
+take hold of a fully solvated benzylpenicillin ligand and interactively guide it to dock it within the active site of the TEM-1 β-lactamase enzyme (with both molecules fully flexible and dynamic) and generate the correct binding mode (33), a process that is important to understanding antimicrobial resistance
+guide a methane molecule (CH4) through a carbon nanotube, changing the screw sense of an organic helicene molecule,
+tie a knot in a small polypeptide [17-alanine (17-ALA)
