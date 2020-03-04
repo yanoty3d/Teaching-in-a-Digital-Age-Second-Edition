@@ -1,8 +1,8 @@
 # はじめに
 こちらは、[Teaching in a Digital Age - Second Edition by Anthony William (Tony) Bates](https://pressbooks.bccampus.ca/teachinginadigitalagev2/)の、やのせん@yanoty3d による日本語訳ページです。 特に、
 
-8.7.b. Emerging technologies: virtual and augmented reality
-8.7c Emerging technologies: artificial intelligence
+* 8.7.b. Emerging technologies: virtual and augmented reality
+* 8.7c Emerging technologies: artificial intelligence
 
 を翻訳します。とりあえず、一区切りごとに　原文→Google翻訳（Machine:直訳）→手動（Human:ざっくり訳）　の順で入力する予定です。また、この本に準拠したビデオ教材も作成予定です。
 
