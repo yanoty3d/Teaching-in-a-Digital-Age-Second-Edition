@@ -66,6 +66,8 @@ ARとVRの両方の要素を組み合わせた複合現実（MR）エクスペ�
 
 複合現実（MR）はARとVRの要素を組み合わせた体験であり、現実世界のモノとデジタルで作られたモノが相互作用します。混合現実の技術はようやく普及し始めたばかりですが、その中でもMicrosoftのHololensは、最も注目すべき最初の複合現実機器の一つと言えるでしょう。
 
+***
+
 I will use the term ‘immersive technologies’ for all these technologies. However, verbal descriptions will always be somewhat inadequate in describing what are essentially multi-sensory experiences, combining vision, hearing and movement. These technologies are something that need to be experienced rather than explained if they are to be better understood. 
 
 ***
