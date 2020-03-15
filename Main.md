@@ -70,6 +70,10 @@ ARとVRの両方の要素を組み合わせた複合現実（MR）エクスペ�
 
 I will use the term ‘immersive technologies’ for all these technologies. However, verbal descriptions will always be somewhat inadequate in describing what are essentially multi-sensory experiences, combining vision, hearing and movement. These technologies are something that need to be experienced rather than explained if they are to be better understood. 
 
+**Machine)** これらすべてのテクノロジーに対して「没入型テクノロジー」という用語を使用します。 ただし、視覚、聴覚、運動を組み合わせた、本質的に多感覚的な体験とは何かを説明する際には、言葉による説明は常にある程度不十分です。 これらの技術は、よりよく理解するために説明するのではなく、経験する必要があるものです。
+
+**Human)** 本書では、これらの技術を「没入型技術」と呼ぶことにします。しかし、言葉では、視覚、聴覚、運動の組み合わせによる、本質的に多感覚的な経験を説明するにはどうやっても不十分です。これらの技術をもっと理解するには、説明を聞くより自分で経験することが必要なのです。
+
 ***
 
 ## 8.7b.2 Why use immersive technologies?
