@@ -96,6 +96,15 @@ the potential for developing a range of skills and knowledge that would be diffi
 より複雑で現実的な学習環境の開発を可能にするより強力なクラウドコンピューティングテクノロジーと、モバイルテクノロジーおよび高速ワイヤレスネットワークのより高度な開発との組み合わせ。
 現実の環境では困難、不可能、または危険となるさまざまなスキルと知識を開発する可能性。
 
+**Human)**　8.7b.2 没入型技術を使う訳
+
+これらの技術が教育分野でより使われ始めているのには、いくつかの理由があります。
+
+比較的低コストで装着しやすいエンドユーザー向け技術（特にヘッドセット）の登場
+エンドユーザーが強く引き込まれるような、やる気になるような非常にリアルな3Dの学習環境に深く没入できるようになったこと
+
+
+
 
 ## 8.7b.3 Examples of immersive environments in education
 Looking at the challenges above, it may be wondered why anyone would bother with immersive technologies in education. However, the potential benefits have barely been explored. I provide examples here that demonstrate both the potential benefits and how some immersive environments can be developed relatively easily. (For a more systematic review of VR applications in higher or post-secondary education, see Radianti et al., 2020)
