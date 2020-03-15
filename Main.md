@@ -86,6 +86,17 @@ the ability for end users to manipulate objects within the three dimensional env
 more powerful cloud computing technology that allows for the development of more complex and more realistic learning environments, combined with more advanced developments in mobile technologies and high-speed wireless networks;
 the potential for developing a range of skills and knowledge that would be difficult, impossible or dangerous in real-world environments.
 
+**Machine)** 8.7b.2 没入型テクノロジーを使用する理由
+
+これらのテクノロジーが教育でさらに使用され始めている理由はいくつかあります。
+
+比較的低コストで装着しやすいエンドユーザーテクノロジー（特にヘッドセット）の最近の開発。
+エンドユーザーにとって非常に説得力のある/やる気のある、3次元の非常に現実的な学習環境に深く没頭します。
+エンドユーザーが3次元環境内でオブジェクトを操作する機能。
+より複雑で現実的な学習環境の開発を可能にするより強力なクラウドコンピューティングテクノロジーと、モバイルテクノロジーおよび高速ワイヤレスネットワークのより高度な開発との組み合わせ。
+現実の環境では困難、不可能、または危険となるさまざまなスキルと知識を開発する可能性。
+
+
 ## 8.7b.3 Examples of immersive environments in education
 Looking at the challenges above, it may be wondered why anyone would bother with immersive technologies in education. However, the potential benefits have barely been explored. I provide examples here that demonstrate both the potential benefits and how some immersive environments can be developed relatively easily. (For a more systematic review of VR applications in higher or post-secondary education, see Radianti et al., 2020)
 
