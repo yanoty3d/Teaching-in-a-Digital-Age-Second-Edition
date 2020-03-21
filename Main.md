@@ -100,14 +100,20 @@ the potential for developing a range of skills and knowledge that would be diffi
 
 これらの技術が教育分野でより使われ始めているのには、いくつかの理由があります。
 
-比較的低コストで装着しやすいエンドユーザー向け技術（特にヘッドセット）の登場
-エンドユーザーが強く引き込まれるような、やる気になるような非常にリアルな3Dの学習環境に深く没入できるようになったこと
-
-
-
+- 比較的低コストで装着しやすいエンドユーザー向け技術（特にヘッドセット）の登場
+- エンドユーザーが強く引き込まれるような、やる気になるような非常にリアルな3Dの学習環境に深く没入できるようになったこと
+- エンドユーザーが3D環境で物体を操作できるようになったこと
+- より複雑でリアルな学習環境の開発ができるクラウドコンピューティング技術が発達し、それがモバイル技術と高速ワイヤレスネットワーク技術の進歩と結びついたこと
+- 現実環境では習得が難しい、不可能あるいは危険である様々な技術や知識を伸ばす可能性が出てきたこと
 
 ## 8.7b.3 Examples of immersive environments in education
 Looking at the challenges above, it may be wondered why anyone would bother with immersive technologies in education. However, the potential benefits have barely been explored. I provide examples here that demonstrate both the potential benefits and how some immersive environments can be developed relatively easily. (For a more systematic review of VR applications in higher or post-secondary education, see Radianti et al., 2020)
+
+**Machine)**
+上記の課題を見ると、なぜ教育で没入型テクノロジーに悩まされるのか疑問に思われるかもしれません。 ただし、潜在的な利点はほとんど検討されていません。 ここでは、潜在的な利点と、没入型環境を比較的簡単に開発する方法の両方を示す例を示します。 （高等教育または中等後教育におけるVRアプリケーションのより体系的なレビューについては、Radianti et al。、2020を参照してください）
+
+**Human)**
+上で述べたような課題を知ると、教育で没入型技術をわざわざ使う理由がわからなくなるかもしれません。しかし、その技術の潜在的な利点はまだ殆ど明らかにされていません。ここで私は、その潜在的な利点と、どのようにして没入環境を比較的簡単に開発できるかを示せる例をお見せします。
 
 ## 8.7b.3.1 Virtual reality
 In the Department of Chemistry at the University of Bristol in England, Dr. David Glowacki and his team in their VR laboratory created an interactive molecular dynamics modelling tool in the form of Nano Simbox VR, which allowed anyone to visit and play within the invisible molecular world (O’Connor et al., 2018). The main aim of this particular project was to provide an intuitive feeling of the way molecules operate in multiple dimensions to enable researchers and students to have a better understanding of how nano worlds operate, leading to better hypotheses for testing within this particular domain.
