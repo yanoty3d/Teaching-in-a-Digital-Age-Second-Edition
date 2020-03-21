@@ -18,9 +18,9 @@ Teaching in a Digital Age - Second Edition by Anthony William (Tony) Bates is li
 
 # 8.7.b. Emerging technologies: virtual and augmented reality
 
-8.7.b. 新しいテクノロジー：仮想現実と拡張現実
+8.7.b. 新しいテクノロジー：バーチャルリアリティと拡張現実
 
-8.7.b. 先端技術：仮想現実と拡張現実
+8.7.b. 先端技術：バーチャルリアリティと拡張現実
 
 ***
 
@@ -28,7 +28,7 @@ As with serious games, virtual and augmented reality are technologies that have 
 
 **Machine)** 本格的なゲームと同様に、仮想現実と拡張現実は、以前の開発で教育に比較的小さな影響を与えながら、しばらくの間存在していたテクノロジーです。 ただし、仮想世界を2次元（Second Lifeなど）から3次元の非常に没入型の環境に移行させた最近の技術開発により、教育の可能性に注目が集まっています（歴史と拡張性と 教育における仮想現実、エルムカデン、2019年を参照）
 
-**Human)** シリアスゲームと同様に、仮想現実と拡張現実は以前からあった技術ですが、開発の初期においては教育へのインパクトは比較的小さかったです。しかし、最近の技術の発達によって仮想世界が（Second Lifeのような）二次元のものから三次元の没入感の高い環境になったことで、教育での利用可能性に注目が集まるようになりました（教育における拡張現実や仮想現実の歴史と利用可能性については、Elmgaddden2019の概説が良いです）。
+**Human)** シリアスゲームと同様に、バーチャルリアリティと拡張現実は以前からあった技術ですが、開発の初期においては教育へのインパクトは比較的小さかったです。しかし、最近の技術の発達によって仮想世界が（Second Lifeのような）二次元のものから三次元の没入感の高い環境になったことで、教育での利用可能性に注目が集まるようになりました（教育における拡張現実やバーチャルリアリティの歴史と利用可能性については、Elmgaddden2019の概説が良いです）。
 
 ***
 
@@ -62,7 +62,7 @@ In a mixed reality (MR) experience, which combines elements of both AR and VR, r
 
 ARとVRの両方の要素を組み合わせた複合現実（MR）エクスペリエンスでは、現実世界とデジタルオブジェクトが相互作用します。 マイクロソフトのHoloLensは、最も注目すべき初期の複合現実機器の1つであり、複合現実技術は今まさに普及し始めています。
 
-**Human)** 仮想現実（バーチャルリアリティ、VR）は、物理世界がシャットアウトされた、完全な没入体験を意味します。HTC Vive、Oculus Rift、またはGoogle CardboardなどのVRデバイスを使うことで、ユーザーは様々な現実あるいは想像上の環境に入ることが出来ます。たとえば、ガァガァと鳴いているペンギンのコロニーの真ん中やドラゴンの背中などです。
+**Human)** バーチャルリアリティ（仮想現実、VR）は、物理世界がシャットアウトされた、完全な没入体験を意味します。HTC Vive、Oculus Rift、またはGoogle CardboardなどのVRデバイスを使うことで、ユーザーは様々な現実あるいは想像上の環境に入ることが出来ます。たとえば、ガァガァと鳴いているペンギンのコロニーの真ん中やドラゴンの背中などです。
 
 複合現実（MR）はARとVRの要素を組み合わせた体験であり、現実世界のモノとデジタルで作られたモノが相互作用します。混合現実の技術はようやく普及し始めたばかりですが、その中でもMicrosoftのHololensは、最も注目すべき最初の複合現実機器の一つと言えるでしょう。
 
@@ -106,6 +106,8 @@ the potential for developing a range of skills and knowledge that would be diffi
 - より複雑でリアルな学習環境の開発ができるクラウドコンピューティング技術が発達し、それがモバイル技術と高速ワイヤレスネットワーク技術の進歩と結びついたこと
 - 現実環境では習得が難しい、不可能あるいは危険である様々な技術や知識を伸ばす可能性が出てきたこと
 
+***
+
 ## 8.7b.3 Examples of immersive environments in education
 Looking at the challenges above, it may be wondered why anyone would bother with immersive technologies in education. However, the potential benefits have barely been explored. I provide examples here that demonstrate both the potential benefits and how some immersive environments can be developed relatively easily. (For a more systematic review of VR applications in higher or post-secondary education, see Radianti et al., 2020)
 
@@ -113,14 +115,40 @@ Looking at the challenges above, it may be wondered why anyone would bother with
 上記の課題を見ると、なぜ教育で没入型テクノロジーに悩まされるのか疑問に思われるかもしれません。 ただし、潜在的な利点はほとんど検討されていません。 ここでは、潜在的な利点と、没入型環境を比較的簡単に開発する方法の両方を示す例を示します。 （高等教育または中等後教育におけるVRアプリケーションのより体系的なレビューについては、Radianti et al。、2020を参照してください）
 
 **Human)**
-上で述べたような課題を知ると、教育で没入型技術をわざわざ使う理由がわからなくなるかもしれません。しかし、その技術の潜在的な利点はまだ殆ど明らかにされていません。ここで私は、その潜在的な利点と、どのようにして没入環境を比較的簡単に開発できるかを示せる例をお見せします。
+上で述べたような課題を知ると、教育で没入型技術をわざわざ使う理由がわからなくなるかもしれません。しかし、その技術の潜在的な利点はまだ殆ど明らかにされていません。ここで私は、その潜在的な利点と、どのようにして没入環境を比較的簡単に開発できるかを示せる例をお見せします（高等教育あるいは中等後教育ににおけるVRアプリケーションに関する、より系統的なレビューについては、Radianti et al., 2020をご覧ください。
+
+***
 
 ## 8.7b.3.1 Virtual reality
 In the Department of Chemistry at the University of Bristol in England, Dr. David Glowacki and his team in their VR laboratory created an interactive molecular dynamics modelling tool in the form of Nano Simbox VR, which allowed anyone to visit and play within the invisible molecular world (O’Connor et al., 2018). The main aim of this particular project was to provide an intuitive feeling of the way molecules operate in multiple dimensions to enable researchers and students to have a better understanding of how nano worlds operate, leading to better hypotheses for testing within this particular domain.
 
+**Machine)** 8.7b.3.1 仮想現実
+イギリスのブリストル大学の化学科で、David Glowacki博士と彼のVR研究所のチームは、Nano Simbox VRの形式でインタラクティブな分子動力学モデリングツールを作成しました。 世界（O'Connor et al。、2018）。 この特定のプロジェクトの主な目的は、分子が多次元で動作する方法の直感的な感覚を提供して、研究者と学生がナノ世界がどのように動作するかをよりよく理解できるようにし、この特定のドメイン内でのテストのより良い仮説につながることでした。
+
+**Human)** 8.7b.3.1 バーチャルリアリティ
+イングランドのブリストル大学の化学科のDavid Glowacki博士と彼のVR研究所のチームは、Nano Simbox VRという、現実には見ることのできない分子世界に入って遊ぶことのできるインタラクティブな分子力学モデリングのツールを開発しました (O’Connor et al., 2018)。このプロジェクトの主目的は、多次元で分子がどのように働くかを直感的に感じることで研究者や学生がナノ世界がどのように働くかを理解し、もっと良い検証可能な仮説をこの分野で生み出せるようにすることです。
+
+***
+
 As the authors state in the article:
 
-From a modeling perspective, the nanoscale represents an interesting domain, because the objects of study (for example, molecules) are invisible to the naked eye, and their behavior is governed by physical forces and interactions significantly different from those forces and interactions that we encounter during our day-to-day phenomenological experience. In domains like this, which are imperceptible to the naked eye, effective models are vital to provide the insight required to make research progress….molecular systems typically have thousands of degrees of freedom. As a result, their motion is characterized by a complicated, highly correlated, and elegant many-body dynamical choreography, which is nonintuitive compared to the more familiar mechanics of objects that we encounter in the everyday physical world. Their combined complexity, unfamiliarity, and importance make molecules particularly interesting candidates for investigating the potential of new digital modeling paradigms.
+From a modeling perspective, the nanoscale represents an interesting domain, because the objects of study (for example, molecules) are invisible to the naked eye, and their behavior is governed by physical forces and interactions significantly different from those forces and interactions that we encounter during our day-to-day phenomenological experience. In domains like this, which are imperceptible to the naked eye, effective models are vital to provide the insight required to make research progress….molecular systems typically have thousands of degrees of freedom. 
+
+**Machine)**
+著者が記事で述べているように：
+
+モデリングの観点から見ると、ナノスケールは興味深い領域を表します。なぜなら、研究対象（分子など）は肉眼では見えず、その挙動は、遭遇する力や相互作用とは大幅に異なる物理的な力や相互作用によって支配されるためです 日々の現象論的経験の中で。 このような肉眼では知覚できない領域では、効果的なモデルは、研究を進めるために必要な洞察を提供するために不可欠です。分子システムは通常、数千の自由度を持っています。
+
+**Human)**
+著者らは、論文でこう述べている
+
+モデリングの観点から言うと、ナノスケールは興味深い領域です。なぜなら、（例えば分子のような）研究対象は肉眼では見えず、その動きを規定する物理的な力や相互作用は、我々が日々現象論的に経験するようなものとは大きく異なるからです。このような、肉眼ではわからない領域においては、効果的なモデルが研究を発展させるような知見を得るためには重要なのです。分子システムは、通常数千の自由度を持っていますので。
+
+
+
+---
+
+As a result, their motion is characterized by a complicated, highly correlated, and elegant many-body dynamical choreography, which is nonintuitive compared to the more familiar mechanics of objects that we encounter in the everyday physical world. Their combined complexity, unfamiliarity, and importance make molecules particularly interesting candidates for investigating the potential of new digital modeling paradigms.
 
 Glowacki and his team in Science Advances (O’Connor et al., 2018) describe how the VR app enabled researchers to:
 
